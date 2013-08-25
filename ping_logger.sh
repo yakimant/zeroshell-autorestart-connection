@@ -30,4 +30,3 @@ while [ 1 ]; do
 	fi
 	$SLEEP $PING_DELAY
 done
-
